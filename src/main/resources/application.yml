@@ -1,0 +1,46 @@
+
+server:
+  port: 9090
+  
+  
+spring:
+  datasource:
+    username: root
+    password: mahadev7041
+    url: jdbc:mysql://localhost:3306/secondminiproject
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    
+    
+ ############################## SMTP  ===================================================
+ 
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: mahadevgade7@gmail.com
+    password: zkjh oocy pmxy iyyy
+    properties:
+      mail:
+        smtp:
+         auth: true
+         starttls:
+          enable: true
+          
+app:
+  messages:
+        invalidCrendentials: Invalid Crendentials...
+        pwdnotmatched: pwd not matched...  
+        pwdnotupadted: pwd not upadted...   
+        recordnotsaved: Record is not saved... 
+        recordsaved: Record saved... 
+        qouteURL: https://type.fit/api/quotes .
+        emailSub: Reset password... 
+          
+sonar:
+  verbose= true
+          
+          

@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "app.messages.invalid-crendentials",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.invalid-crendentials'"
+  },
+  {
+    "name": "app.messages.invalid-crendentials",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.invalid-crendentials'"
+  },
+  {
+    "name": "spring.app",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app'"
+  },
+  {
+    "name": "spring.app.messages.qoute-uRL",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.app.messages.qoute-uRL'"
+  },
+  {
+    "name": "app.messages.pwdnotmatched",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.pwdnotmatched'"
+  },
+  {
+    "name": "app.messages.pwdnotupadted",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.pwdnotupadted'"
+  },
+  {
+    "name": "app.messages.pwdnotmatched",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.pwdnotmatched'"
+  },
+  {
+    "name": "app.messages.pwdnotmatched",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.pwdnotmatched'"
+  },
+  {
+    "name": "app.messages.recordnotsaved",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.recordnotsaved'"
+  },
+  {
+    "name": "app.messages.recordsaved",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.recordsaved'"
+  },
+  {
+    "name": "app.messages.recordsaved",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.recordsaved'"
+  },
+  {
+    "name": "app.messages.qouteURL",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.qouteURL'"
+  },
+  {
+    "name": "app.messages.recordsaved",
+    "type": "java.lang.String",
+    "description": "A description for 'app.messages.recordsaved'"
+  }
+]}
