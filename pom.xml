@@ -32,14 +32,7 @@
 	
 	</properties>
 	
-	<repositories>
-		
-		<repository>
-			<id>nexus</id>
-			<url>hh</url>			
-		</repository>
-		
-	</repositories>
+
 	
 	<dependencies>
 		<dependency>
